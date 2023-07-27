@@ -23,7 +23,7 @@ body {
 	border-radius: 0px 0px 80px 80px;
 	background: linear-gradient(0deg, rgba(183, 176, 176, 0.01) 0%,
 			rgba(183, 176, 176, 0.01) 100%),
-		url(/img/0f735b63800166ea7b2599a57afcfb1f.png) no-repeat center / cover;
+		url(img/0f735b63800166ea7b2599a57afcfb1f.png) no-repeat center / cover;
 }
 
 .header strong {
